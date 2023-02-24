@@ -1,6 +1,7 @@
 # verificacao_de_codigo_para_acesso
 
 Teste de verificação de codigo
+obs: E um teste em php apenas teste..
 
 em node.js
 
