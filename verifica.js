@@ -1,7 +1,7 @@
 /* Codigo para verificação de email enviado 
         Erasmo Cardoso */
 
- // bibliotecas       
+ // readline     
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
@@ -29,7 +29,7 @@ const readline = require('readline').createInterface({
     if (codigo === veri_email){
       console.log('Acesso Garantido');
     } else {
-      console.log('Tente novamente');
+      console.log('Acesso Negado tente novamente');
     }
   
     readline.close();
