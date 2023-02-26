@@ -1,6 +1,6 @@
 <?php
 
-/* Codigo para verificação de email enviado adaptaç
+/* Codigo para verificação de email enviado adaptaçao em PHP
 Erasmo Cardoso */
 
 // readline     
